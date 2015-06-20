@@ -1,0 +1,13 @@
+{
+  "name": "ReactChat",
+  "version": "0.0.1",
+  "homepage": "https://github.com/iameddiedean/reactchat",
+  "authors": [
+    "Chris Oyler <christopher.oyler@gmail.com>"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "reactfire": "~0.4.0",
+    "bootstrap": "~3.3.5"
+  }
+}
